@@ -298,3 +298,29 @@
 {"level":"info","message":"⌛ Validating naves.wlk","timeElapsed":102,"timestamp":"2025-10-20T01:25:56.560Z"}
 {"level":"info","message":"🧪 Test runner executed on d:\\Repositorios\\Obj2025s2\\naves-espaciales-Erickvicio","result":{"errored":0,"failed":1,"ok":22},"testsFailed":[{"error":["wollok.lib.AssertionException: Expected <15000> but found <0>","  at navesTest.\"Nave de carga Residuos radioactivos\".\"preparar para el viaje\" [navesTest.wtest:50]"],"test":"navesTest.\"Nave de carga Residuos radioactivos\".\"preparar para el viaje\""}],"timeElapsed":363,"timestamp":"2025-10-20T01:26:03.600Z"}
 {"level":"info","message":"🧪 Test runner executed on d:\\Repositorios\\Obj2025s2\\naves-espaciales-Erickvicio","result":{"errored":0,"failed":0,"ok":23},"testsFailed":[],"timeElapsed":350,"timestamp":"2025-10-20T01:26:17.848Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":169,"timestamp":"2025-10-06T19:04:48.075Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":118,"timestamp":"2025-10-06T19:04:48.195Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":110,"timestamp":"2025-10-06T19:04:48.497Z"}
+{"level":"info","message":"⌛ Validating naves.wlk","timeElapsed":110,"timestamp":"2025-10-06T19:04:48.617Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":218,"timestamp":"2025-10-06T19:09:24.965Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":133,"timestamp":"2025-10-06T19:09:25.103Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":108,"timestamp":"2025-10-06T19:09:25.228Z"}
+{"level":"info","message":"⌛ Validating navesTest.wtest","timeElapsed":115,"timestamp":"2025-10-06T19:09:25.543Z"}
+{"level":"info","message":"🧪 Test runner executed on /home/publico/Escritorio/naves-espaciales-Erickvicio","result":{"errored":0,"failed":0,"ok":23},"testsFailed":[],"timeElapsed":441,"timestamp":"2025-10-06T19:09:46.950Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":177,"timestamp":"2025-10-06T19:15:40.726Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":122,"timestamp":"2025-10-06T19:15:40.852Z"}
+{"level":"info","message":"⌛ Validating navesTest.wtest","timeElapsed":114,"timestamp":"2025-10-06T19:15:41.067Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":102,"timestamp":"2025-10-06T19:15:41.245Z"}
+{"level":"info","message":"⌛ Validating navesTest.wtest","timeElapsed":112,"timestamp":"2025-10-06T19:15:41.369Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":105,"timestamp":"2025-10-06T19:16:41.450Z"}
+{"level":"info","message":"⌛ Validating naves.wlk","timeElapsed":106,"timestamp":"2025-10-06T19:16:41.752Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":143,"timestamp":"2025-10-20T13:17:21.194Z"}
+{"level":"info","message":"⌛ Validating naves.wlk","timeElapsed":159,"timestamp":"2025-10-20T13:17:21.504Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":113,"timestamp":"2025-10-20T13:17:35.778Z"}
+{"level":"info","message":"⌛ Validating naves.wlk","timeElapsed":101,"timestamp":"2025-10-20T13:17:51.441Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":121,"timestamp":"2025-10-20T13:19:08.117Z"}
+{"level":"info","message":"⌛ Validating naves.wlk","timeElapsed":134,"timestamp":"2025-10-20T13:19:30.288Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":141,"timestamp":"2025-10-20T13:41:35.251Z"}
+{"level":"info","message":"⌛ Validating naves.wlk","timeElapsed":114,"timestamp":"2025-10-20T13:41:35.367Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":109,"timestamp":"2025-10-20T13:41:35.752Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":105,"timestamp":"2025-10-20T13:41:40.727Z"}
